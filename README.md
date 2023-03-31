@@ -1,6 +1,6 @@
 # BB84 Protocol
 <img src="BB84-quantum-key-distribution.png">
-<h5>Figure 3 - available via license: Creative Commons Attribution 4.0 International</h5>
+<h5>Figure available via license: Creative Commons Attribution 4.0 International</h5>
 
 <h1>Here,I have tried to perform a basic implementation of the BB84 protocol using python and qiskit.</h1>
 
