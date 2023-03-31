@@ -1,4 +1,4 @@
-# BB84
+# BB84 Protocol
 <img src="BB84-quantum-key-distribution.png">
 <h5>Figure 3 - available via license: Creative Commons Attribution 4.0 International</h5>
 
