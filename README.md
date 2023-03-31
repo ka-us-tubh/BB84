@@ -1,5 +1,5 @@
 # BB84
-<img src="rsa.png">
+<img src="BB84-quantum-key-distribution.png">
 
 Here,I have tried to perform a basic implementation of the BB84 protocol using python and qiskit.
 
