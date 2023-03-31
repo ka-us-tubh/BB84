@@ -1,7 +1,8 @@
 # BB84
 <img src="BB84-quantum-key-distribution.png">
+<h5>Figure 3 - available via license: Creative Commons Attribution 4.0 International</h5>
 
-Here,I have tried to perform a basic implementation of the BB84 protocol using python and qiskit.
+<h1>Here,I have tried to perform a basic implementation of the BB84 protocol using python and qiskit.</h1>
 
 <h3>BB84 protocol is a quantum key distribution (QKD) protocol that was proposed by Charles Bennett and Gilles Brassard in 1984. It is a cryptographic protocol that enables two parties, Alice and Bob, to establish a secure key for encrypting and decrypting messages using quantum mechanics.
 
