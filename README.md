@@ -1,8 +1,9 @@
 # BB84 Protocol
+This repository contains a basic implementation of the BB84 protocol using Python and Qiskit.
+
 <img src="BB84-quantum-key-distribution.png">
 <h5>Figure available via license: Creative Commons Attribution 4.0 International</h5>
 
-This repository contains a basic implementation of the BB84 protocol using Python and Qiskit.
 
 ## Overview
 
